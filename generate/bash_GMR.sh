@@ -1,11 +1,7 @@
 #!/bin/bash
 
-types=("SA" "logp" "esol" "TPSA")
-# 调用脚本
-for i in {0..9}
+types=("SA" "LogP" "Esol" "TPSA")
+for type in ${types[@]}
 do
-    for type in ${types[@]}
-    do
-	    CUDA_VISIBLE_DEVICES=0 python GMR_genarate.py ../data/encode_data/encode_change2_offset${i}_${type}.json
-    done
+    CUDA_VISIBLE_DEVICES=0 python GMR_genarate.py ../data_example/GMR_data/GMR_${type}_test.json
 done

@@ -2,14 +2,17 @@ import os
 import json
 import re
 import sys
-sys.path.append("../tools/")
-sys.path.append("../tools/calculate_props/")
-from success_rate import *
 import transformers
 from transformers import GenerationConfig, PreTrainedTokenizer, PreTrainedModel
 import typing
 
-model_path = "../model/checkpoint-last"
+sys.path.append("../tools/calculate_props/")
+sys.path.append("../tools/SMILES_to_GMR/")
+import decode_smiles
+from success_rate import *
+
+model_path = "../model/DrugLLM"
+
 token_path = model_path
 model_max_length = 1200
 
@@ -58,42 +61,62 @@ prompt = (
 )
 
 # 读取json文件
-input_file = sys.argv[1] # 获取第一个命令行参数
+input_file = sys.argv[1] 
 with open(input_file, 'r') as f:
     data = json.load(f)
 
-input_filename = os.path.splitext(os.path.basename(input_file))[0]
+input_filename = os.path.basename(input_file).split('_')[1]
 
-with open(f'./output/encode_data/{input_filename}.txt', 'w') as results_file:
+calculator = PropertyCalculator()
+
+
+correct_count = 0
+total_count = 0
+
+with open(f'./{input_filename}.txt', 'w') as results_file:
     for item in data:
         print("----------------------------")
         instruction = item['instruction']
         input_value = item['input']
         match_source = re.search(r'\{([^}]*)\}(?!.*\{)', instruction)
+
         if match_source:
             result_source = match_source.group(1)
-            print(result_source)
         else:
             results_file.write('none\n')
             print('Input no match found\n')
             continue
+        
         output = generate(model, instruction)
 
         # 使用正则表达式提取内容
         match_generated = re.search(r'{(.*?)}', output[len('Below are molecule modifications:') + len(instruction):])
-        result_generated = match_generated.group(1)
-        if result_generated:
-            print(result_generated)
+        
+        if match_generated:
+            result_generated = match_generated.group(1)
             results_file.write(result_source + ' ' + result_generated + ' ' + input_value + '\n')
             results_file.flush()
+            # 解码 SMILES
+            smiles_before = decode_smiles.code_to_smiles(result_source)
+            smiles_after = decode_smiles.code_to_smiles(result_generated)
+            if smiles_before == smiles_after:
+                continue
+
+            print(smiles_before)
+            print(smiles_after)
+            total_count += 1
+            if smiles_before is not None and smiles_after is not None:
+                prop1_func = next(key for key, value in calculator.prop_names.items() if value == f'{input_filename}')
+                comparison = [f'{input_value}']
+                correct_count += calculator.ifSuccess(smiles_before, smiles_after, comparison, prop1=prop1_func, prop2=None)
+                success_rate = (correct_count / total_count) * 100 if total_count > 0 else 0
+                print(f"Success Rate: {success_rate:.2f}%")
         else:
             results_file.write('none\n')
             print('Generated no match found\n')
             continue
 
+# 计算成功率
+success_rate = (correct_count / total_count) * 100 if total_count > 0 else 0
+print(f"Success Rate: {success_rate:.2f}%")
 
-# result_source = decode_smiles.code_to_smiles(result_source)
-# if result_source == None:
-#     print('decode1 error\n')
-#     results_file.write('none\n')
-#     continue

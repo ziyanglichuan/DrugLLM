@@ -271,6 +271,17 @@ class ESOLCalculator:
                + coef["ap"] * desc.ap
         return esol
 
+def penalized_SA(mol):
+    if mol is None: return -100.0
+
+    SA_mean = -3.0525811293166134
+    SA_std = 0.8335207024513095
+
+    SA = -sascorer.calculateScore(mol)
+
+    normalized_SA = (SA - SA_mean) / SA_std
+    return normalized_SA
+
 def penalized_logp(mol):
     if mol is None: return -100.0
 
@@ -299,8 +310,7 @@ def penalized_logp(mol):
     normalized_log_p = (log_p - logP_mean) / logP_std
     normalized_SA = (SA - SA_mean) / SA_std
     normalized_cycle = (cycle_score - cycle_mean) / cycle_std
-    #return normalized_log_p + normalized_SA + normalized_cycle
-    return normalized_SA
+    return normalized_log_p + normalized_SA + normalized_cycle
 
 class PropertyCalculator:
     def __init__(self):
@@ -308,8 +318,8 @@ class PropertyCalculator:
             qed: 'QED',
             Lipinski.NumRotatableBonds: 'NRBonds',
             Descriptors.TPSA: 'TPSA',
-            Descriptors.MolLogP: 'LogP',
-            penalized_logp: 'SA',
+            Descriptors.MolLogP: 'LogP', 
+            penalized_SA: 'SA',
             Lipinski.NumHAcceptors: 'NHAcceptors',
             ESOLCalculator().calc_esol: 'Esol',
             Lipinski.FractionCSP3: 'FCSP3'
@@ -339,66 +349,3 @@ class PropertyCalculator:
         else:
             print(f'{mol_prop1}{comp_dict[comparison[0]]}{ref_prop1}   {mol_prop2}{comp_dict[comparison[1]]}{ref_prop2}')
         return 1
-
-if __name__ == '__main__':
-    calculator = PropertyCalculator()
-    with open('changeInstru_data/change2_offset0_SA.json', 'r') as f:
-        data = json.load(f)
-
-    correct_count = 0
-    total_count = 0
-
-    with open('Results.txt', 'w') as results_file, open('Accuracy.txt', 'w') as accuracy_file:
-        for item in data:
-            instruction = item['instruction']
-            input_value = item['input'] 
-            match = re.search(r'\{([^}]*)\}(?!.*\{)', instruction)
-            if match:
-                result = match.group(1)
-                smiles_before = result
-
-                results_file.write('' + result + '\n')
-            else:
-                results_file.write('No match found\n')
-                total_count += 1
-                continue
-
-            output = item['output']
-            match = re.search(r'\{([^}]*)\}', output)
-            if match:
-                result = match.group(1)
-                smiles_after = result
-                results_file.write('' + result + '\n')
-            else:
-                results_file.write('No match found\n')
-                total_count += 1
-
-            prop1_func = next(key for key, value in calculator.prop_names.items() if value == 'SA') 
-            correct_count += calculator.ifSuccess(smiles_before, smiles_after, input_value, prop1=prop1_func, prop2=None)
-
-            total_count += 1
-
-            if total_count % 100 == 0:
-                accuracy = correct_count / total_count
-                accuracy_file.write(f'Accuracy: {accuracy:.2f}\n')
-
-        accuracy = correct_count / total_count
-        accuracy_file.write(f'Final accuracy: {accuracy:.2f}\n')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
