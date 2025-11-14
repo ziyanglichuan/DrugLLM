@@ -15,11 +15,9 @@ def read_file(filename):
         data[smiles] = code
     return data
 
-# 动态添加模块路径（
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(current_dir)
 
-# 使用相对路径加载数据文件
 vocab_path = os.path.join(current_dir, 'vocab/train_vocab.txt')
 vocab_data = read_file(vocab_path)
 
@@ -71,10 +69,14 @@ def encode_smiles(smiles):
             group_smiles = Chem.MolToSmiles(group)
             if group_smiles in vocab_data:
                 code = vocab_data[group_smiles]
-                result_str += f'{connected_atoms[0]}/{connected_group_atoms[0]}'
+                if connected_atoms and connected_group_atoms:
+                    result_str += f'{connected_atoms[0]}/{connected_group_atoms[0]}'
+                else:
+                    # 如果为空，选择跳过或用默认值
+                    result_str += ''
                 result_str += code
             else:
-                #print(f'{group_smiles} not found in vocab_file')
+                # print(f'{group_smiles} not found in vocab_file')
                 return None
 
         return result_str

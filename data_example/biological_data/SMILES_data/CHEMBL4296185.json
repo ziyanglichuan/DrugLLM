@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{Cc1ccc(NC(=O)Cn2c(=O)c3nnc(C)n3c3ccccc32)cc1C}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5cc(C)ccc5C)nn4ccn3c2=O)c(OC)c1}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{COc1cccc(CNC(=O)CSc2nnc3c4cc(-c5cc(C)ccc5C)nn4ccn23)c1OC}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5cc(C)ccc5C)nn4ccn3c2=O)c(OC)c1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCN(CCCNC(=O)CCc1nnc2ccc(-c3ccc(C)c(C)c3)nn12)c1ccccc1}->{Cc1ccc(C)c(-c2cc3c4nnc(CCC(=O)NCCc5ccc(Cl)cc5)n4ccn3n2)c1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5cc(C)ccc5C)nn4ccn3c2=O)c(OC)c1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4C)nnc3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}->{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{CSc1ccc(CNC(=O)Cn2nc3c(Oc4cccc(C)c4C)nccn3c2=O)cc1}.{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{Cc1cc2nn(CC(=O)Nc3cc(F)ccc3C)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{CSc1ccc(CNC(=O)Cn2nc3c(Oc4cccc(C)c4C)nccn3c2=O)cc1}.{COc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1Cl}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cccc(C#N)c5)n4ccn3n2)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1Cl}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}.{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}->{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)c1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)c1}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}.{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}->{COc1cccc(Cn2nc3ccc(-c4ccccc4)nn3c2=O)c1}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CC(=O)/C=C/C1CCN(Cc2ccccc2)CC1}->{CCOC(=O)c1c(C)nc(NCC2CCN(Cc3ccccc3)CC2)c(C#N)c1-c1ccccc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}->{Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}.{Cc1ccc(-n2ccn3c(=O)n(Cc4cccc(F)c4)nc3c2=O)cc1C}->{O=c1n(Cc2cccc(C(F)(F)F)c2)nc2c(S(=O)(=O)N3CCCC3)cccn12}.{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}.{O=C(CCc1nnc2c3cc(-c4ccc(F)cc4)nn3ccn12)NCc1ccccc1Cl}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{COc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}->{Cc1ccc(-n2ccn3c(=O)n(Cc4cccc(F)c4)nc3c2=O)cc1C}.{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4C)nnc3c2=O)cc1}->{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccccc1Nc1cc(C)n2c(=O)n(CCOc3ccc(F)cc3)nc2n1}->{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)N1CCCc2ccccc21}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}.{C#CCNc1cccc(F)n1}->{C#CCNc1nc(N)c(C#N)c(-c2ccccc2)c1C#N}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCOc1ccc(-n2ccn3c(SCC(=O)Nc4cc(OC)cc(OC)c4)nnc3c2=O)cc1}->{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(F)cc4)nnc3c2=O)c1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}.{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{COc1ccc(Cl)cc1NC(=O)Cn1nc2c3cc(-c4ccc(C)c(C)c4)nn3ccn2c1=O}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{O=c1c2nn(Cc3ccccc3F)c(=O)n2ccn1-c1ccccc1}->{Cc1cccc(Cn2nc3c(=O)n(-c4cccc(Cl)c4C)ccn3c2=O)c1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}->{CCOc1ccc(C(=O)Cn2nc3n(Cc4ccccc4OC)c(=O)c4sccc4n3c2=O)cc1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}.{O=c1c2nn(Cc3ccc([N+](=O)[O-])cc3)c(=O)n2ccn1-c1ccccc1}->{Cc1ccc(-n2ccn3c(=O)n(Cc4ccccc4F)nc3c2=O)cc1C}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{COc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{Cc1ccc(-n2ccn3c(=O)n(Cc4ccccc4F)nc3c2=O)cc1C}.{O=C(Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O)Nc1ccccc1Br}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{COc1cccc(-n2ccn3c(SCc4ccc(C)cc4)nnc3c2=O)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}->{Cc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)c(C)c1}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)Nc1cccc(C(F)(F)F)c1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{CC(C)c1nnc2c(=O)n(CC(=O)Nc3ccc(F)cc3)c3ccccc3n12}->{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)Nc1ccc(F)cc1}.{N#Cc1c(-c2ccccc2)c2c(ccc3ccccc32)oc1=O}->{CN(C)c1nc(N)c(C#N)c(-c2ccccc2)c1C#N}.{N#Cc1c(-c2ccccc2)c2c(ccc3ccccc32)oc1=O}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccc(C)cc5)n4ccn3n2)cc1}.{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}.{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccc(C)cc5)n4ccn3n2)cc1}->{Cc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)c(C)c1}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{CCOc1ccc(C(=O)Cn2nc3n(Cc4ccccc4OC)c(=O)c4sccc4n3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CC(C)(C)OC(=O)n1c(COC(=O)NC2CCN(Cc3ccccc3)CC2)cc2cc(OCc3ccccc3)ccc21.O=C(O)C(=O)O}->{CCOC(=O)c1c(C)nc(NC2CCN(Cc3ccccc3)CC2)c(C#N)c1-c1ccccc1}.{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCc1ccc(N(Cc2ccccc2)S(=O)(=O)c2cccn3cnnc23)cc1}->{Cc1ccc(N(Cc2cc(F)cc(F)c2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}.{O=c1c2nn(Cc3ccccc3F)c(=O)n2ccn1-c1ccccc1}->{Cc1ccc(-n2ccn3c(=O)n(Cc4cccc(F)c4)nc3c2=O)cc1C}.{Cc1ccc(-n2ccn3c(SC(C)C(=O)Nc4ccc5c(c4)OCCO5)nnc3c2=O)cc1C}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}->{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}->{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}.{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccccc6F)CC5)c(=O)n4ccn3n2)cc1C}->{COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}.{COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{COc1nc(Cl)c(C#N)c(-c2ccccc2)c1C#N}->{CN(C)c1nc(N)c(C#N)c(-c2ccccc2)c1C#N}.{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}->{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}.{COc1cccc(CSc2nnc3c(=O)n(-c4ccccc4OC)ccn23)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}.{CCOC(=O)c1c(C)nc(NCC2CCN(Cc3ccccc3)CC2)c(C#N)c1-c1ccccc1}->{CCOC(=O)c1c(C)nc(NC2CCN(Cc3ccccc3)CC2)c(C#N)c1-c1ccccc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}.{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(F)cc4)nnc3c2=O)c1}->{COc1cccc(-n2ccn3c(SCc4ccc(C)cc4)nnc3c2=O)c1}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}->{Cc1cc(C)c(NC(=O)Cn2nc3ccc(Sc4cccc(F)c4)nn3c2=O)c(C)c1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{CC#CCN(Cc1ccccc1)c1nc(N)c(C#N)c(-c2ccccc2)c1C#N}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}->{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}.{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4C)nnc3c2=O)cc1}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{Cc1ccc(-n2ccn3c(SC(C)C(=O)Nc4ccc5c(c4)OCCO5)nnc3c2=O)cc1C}->{Cc1ccc(-n2ccn3c(=O)n(Cc4cccc(F)c4)nc3c2=O)cc1C}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}.{Cc1ccc(Sc2nccn3c(=O)n(CC(=O)Nc4ccccc4Br)nc23)c(C)c1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)cc1}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{CCOc1ccc(-c2nc(NC(=O)CS(=O)(=O)c3ccccc3)sc2C)cc1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4C)nnc3c2=O)cc1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}.{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1ccc(NC(=O)Cn2c(=O)c3nnc(C)n3c3ccccc32)cc1C}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccc(C)cc5)n4ccn3n2)cc1}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{CCCc1nnc2c(=O)n(CC(=O)Nc3ccc(NC(C)=O)cc3)c3ccccc3n12}->{CCc1nnc2c(SCC(=O)Nc3ccc(C)cc3Br)nc3ccccc3n12}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}.{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4cccc(OC)c4)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{Cc1ccc(-c2cc3c4nnc(CCC(=O)N5CCC(Cc6ccccc6)CC5)n4ccn3n2)cc1C}.{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}->{Cc1cccc(NC(=O)CSc2nnc3ccc(C(=O)Nc4cccc(F)c4)cn23)c1}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCN(CCCNC(=O)CCc1nnc2ccc(-c3ccc(C)c(C)c3)nn12)c1ccccc1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{Cc1ccc(NC(=O)CSc2nc3ccccc3n3cnnc23)c(Br)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccccc6F)CC5)c(=O)n4ccn3n2)cc1C}->{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{O=c1c2nn(Cc3ccccc3F)c(=O)n2ccn1-c1ccccc1}->{Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}.{COc1nc(Cl)c(C#N)c(-c2ccccc2)c1C#N}->{N#Cc1c(N)nc(Cl)c(C#N)c1-c1ccccc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{N#CCn1nc2n(Cc3ccccc3)c(=O)c3ccccc3n2c1=O}->{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}.{COc1ccc(Cl)cc1NC(=O)Cn1nc2c3cc(-c4ccc(C)c(C)c4)nn3ccn2c1=O}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{O=C(Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O)Nc1ccccc1Br}->{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}.{Cc1ccc(NC(=O)Cn2c(=O)c3nnc(C)n3c3ccccc32)cc1C}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{O=C(Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O)Nc1ccc2c(c1)CCC2}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}.{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1cccc(Cn2nc3c(=O)n(-c4cccc(Cl)c4C)ccn3c2=O)c1}->{O=c1n(Cc2cccc(C(F)(F)F)c2)nc2c(S(=O)(=O)N3CCCC3)cccn12}.{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{CC(C)CCNC(=O)Cn1nc2n(CC(C)C)c(=O)c3sccc3n2c1=O}->{CC(C)CCn1c(=O)c2sccc2n2c(=O)n(CC(=O)NC(C)C)nc12}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{Cc1ccc(Sc2nccn3c(=O)n(CC(=O)Nc4ccccc4Br)nc23)c(C)c1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{CCc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}.{Cc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)c(C)c1}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}.{O=C(Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O)Nc1ccc2c(c1)CCC2}->{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}.{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cccc(C#N)c5)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}->{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5cc(C)ccc5C)nn4ccn3c2=O)c(OC)c1}.{CCCCn1c(=O)c2sccc2n2c(=O)n(CC(=O)c3ccc(C)cc3C)nc12}->{CC(C)(C)NC(=O)Cn1nc2n(Cc3cccs3)c(=O)c3sccc3n2c1=O}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccccc1N1CCN(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)CC1}->{O=c1c2nnc(SCc3ccc(F)cc3)n2ccn1-c1ccc(Br)cc1}.{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)Nc1ccc(F)cc1}->{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}.{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cccc(C#N)c5)n4ccn3n2)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5cc(C)ccc5C)nn4ccn3c2=O)c(OC)c1}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{Cc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)c(C)c1}.{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(F)cc4)nnc3c2=O)c1}->{Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}.{Cc1ccc(NC(=O)Cn2c(=O)c3nnc(C)n3c3ccccc32)cc1C}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1ccc(NC(=O)Cn2c(=O)c3nnc(C)n3c3ccccc32)cc1C}->{Cc1cccc(C)c1NC(=O)Cn1c(=O)c2nnc(C(C)C)n2c2ccccc21}.{Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}->{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}.{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}.{CCN(CCCNC(=O)CCc1nnc2ccc(-c3ccc(C)c(C)c3)nn12)c1ccccc1}->{Cc1ccc(-c2cc3c4nnc(CCC(=O)N5CCC(Cc6ccccc6)CC5)n4ccn3n2)cc1C}.{COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{O=C(CSc1nnc2c(=O)n(Cc3ccc(F)cc3)ccn12)NC1CCCC1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}.{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}->{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)Nc1ccc(F)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}->{CSc1ccc(CNC(=O)Cn2nc3c(Oc4cccc(C)c4C)nccn3c2=O)cc1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}->{Cc1cccc(NC(=O)CSc2nnc3ccc(C(=O)Nc4cccc(F)c4)cn23)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "decrease a certain molecular property. Output: {Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}.{Cc1ccc(Sc2nccn3c(=O)n(CC(=O)Nc4ccccc4Br)nc23)c(C)c1}->{Cc1cc(C)c(NC(=O)Cn2nc3ccc(Sc4cccc(F)c4)nn3c2=O)c(C)c1}.{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cccc(C#N)c5)n4ccn3n2)cc1}->{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}->{Cc1ccc(Sc2nccn3c(=O)n(CC(=O)Nc4ccccc4Br)nc23)c(C)c1}.{Cc1nnc2c(S(=O)(=O)N(Cc3cccc(Cl)c3)c3ccc(F)c(F)c3)cccn12}->{Cc1ccc(N(Cc2cc(F)cc(F)c2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}.{Cc1cccc(NC(=O)CSc2nnc3ccc(C(=O)Nc4cccc(F)c4)cn23)c1C}",
+        "input": "decrease",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{Cc1ccc(NC(=O)CSc2nc3ccccc3n3cnnc23)c(Br)c1}.{Cc1cc2nn(CC(=O)Nc3cc(F)ccc3C)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}->{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}.{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}->{Cc1ccc2c(c1)N(C(=O)Cn1nc3ccc(S(=O)(=O)C(C)(C)C)nn3c1=O)CCO2}.{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}->{Cc1cccc(C)c1NC(=O)Cn1c(=O)c2nnc(C(C)C)n2c2ccccc21}.{CCc1nnc2ccc(S(=O)(=O)N(Cc3ccccc3)c3ccccc3)cn12}->{Cc1ccc(N(Cc2cc(F)cc(F)c2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{O=c1c2nn(Cc3ccc([N+](=O)[O-])cc3)c(=O)n2ccn1-c1ccccc1}.{CSc1ccc(CNC(=O)Cn2nc3c(Oc4cccc(C)c4C)nccn3c2=O)cc1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}.{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}->{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}->{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(Cl)cc1F}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CSc1ccc(CNC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}.{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}->{CCc1nnc2c(SCC(=O)Nc3ccc(C(C)=O)cc3)nc3ccccc3n12}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccc(F)cc6)CC5)c(=O)n4ccn3n2)cc1C}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}.{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}.{CCC(Sc1nnc2c(=O)n(-c3cccc(OC)c3)ccn12)C(=O)Nc1cc(F)ccc1F}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}.{O=c1c2nn(Cc3ccccc3F)c(=O)n2ccn1-c1ccccc1}->{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}.{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CCc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)Nc1cccc(C(F)(F)F)c1}.{Cc1cc2nn(CC(=O)Nc3cc(F)ccc3C)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}->{Cc1ccc(Sc2nccn3c(=O)n(CC(=O)Nc4ccccc4Br)nc23)c(C)c1}.{O=S(=O)(c1ccc2nncn2c1)N(Cc1ccc(F)cc1)c1ccc(F)c(F)c1}->{CC(C)c1ccc(N(Cc2ccccc2F)S(=O)(=O)c2cccn3cnnc23)cc1}.{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}.{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{COc1cccc(CSc2nnc3c(=O)n(-c4ccccc4OC)ccn23)c1}->{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1}.{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}.{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}->{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{O=C(CCc1nnc2c3cc(-c4ccc(F)cc4)nn3ccn12)NCc1ccccc1Cl}.{CCc1ccc(N(Cc2cc(F)cc(F)c2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}->{CC(C)c1ccc(N(Cc2ccccc2F)S(=O)(=O)c2cccn3cnnc23)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}->{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}->{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)Nc1ccc(F)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Sc2nccn3c(=O)n(CC(=O)Nc4ccccc4Br)nc23)c(C)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}->{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{CCc1ccc(N(Cc2ccccc2)S(=O)(=O)c2cccn3cnnc23)cc1}->{CC(C)c1ccc(N(Cc2ccccc2F)S(=O)(=O)c2cccn3cnnc23)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CCc1nnc2ccc(S(=O)(=O)N(Cc3ccccc3)c3ccccc3)cn12}->{C=Cc1ccc(CN(c2ccc(CC)cc2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}.{CCOc1ccc(-n2ccn3c(SCC(=O)Nc4cc(OC)cc(OC)c4)nnc3c2=O)cc1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4cccc(OC)c4)nnc3c2=O)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4)nnc3c2=O)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1nnc2ccc(S(=O)(=O)N(Cc3cccc(F)c3)c3ccc(F)c(F)c3)cn12}->{Cc1cccc(N(Cc2cccc(F)c2)S(=O)(=O)c2cccn3c(C)nnc23)c1}.{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{CCN(CCCNC(=O)CCc1nnc2ccc(-c3ccc(C)c(C)c3)nn12)c1ccccc1}.{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(F)cc4)nnc3c2=O)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{CCc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}.{O=S(=O)(c1ccc2nncn2c1)N(Cc1cccc(F)c1)c1ccc(F)c(F)c1}->{Cc1nnc2c(S(=O)(=O)N(Cc3cccc(F)c3)c3cccc(F)c3)cccn12}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}.{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)c1}->{CCC(Sc1nnc2c(=O)n(-c3cccc(OC)c3)ccn12)C(=O)Nc1cc(F)ccc1F}.{CCc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)cc1}->{CCCc1nnc2c(=O)n(CC(=O)Nc3ccc(NC(C)=O)cc3)c3ccccc3n12}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{CCOc1ccc(-n2ccn3c(SCC(=O)Nc4cc(OC)cc(OC)c4)nnc3c2=O)cc1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}.{CC(C)NC(=O)Cn1nc2n(Cc3ccco3)c(=O)c3sccc3n2c1=O}->{CCOc1ccc(C(=O)Cn2nc3n(Cc4ccccc4OC)c(=O)c4sccc4n3c2=O)cc1}.{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}->{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}->{COc1cccc(-n2ccn3c(SCc4ccc(C)cc4)nnc3c2=O)c1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1Cl}.{Cc1ccc(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)c(C)c1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccc(C)cc5)n4ccn3n2)cc1}.{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}->{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}->{Cc1cccc(C)c1NC(=O)Cn1c(=O)c2nnc(C(C)C)n2c2ccccc21}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)N1CCN(c2ccccc2)CC1}->{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}.{CCc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}->{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}.{Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Cn2nc3c(=O)n(-c4cccc(F)c4)ccn3c2=O)cc1}->{Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccc(F)cc6)CC5)c(=O)n4ccn3n2)cc1C}.{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{CSc1ccc(CNC(=O)Cn2nc3c(Oc4cccc(C)c4C)nccn3c2=O)cc1}.{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}->{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}.{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)Nc4cccc(C(C)C)c4)nc23)CC1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4C)nnc3c2=O)cc1}.{CCc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)cc1}->{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)Nc1ccc(F)cc1}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}.{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}->{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1}.{Cl.OCC1CCN(Cc2ccccc2)CC1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CCc1ccc(NC(=O)CSc2nnc3c(=O)n(-c4ccccc4)ccn23)cc1}->{O=c1c2nn(Cc3ccc([N+](=O)[O-])cc3)c(=O)n2ccn1-c1ccccc1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}.{CCOc1ccc(-n2ccn3c(SCC(=O)Nc4cc(OC)cc(OC)c4)nnc3c2=O)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)Nc1cccc(C(F)(F)F)c1}->{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COC(=O)c1ccc(C(=O)Nc2cc(C(=O)Nc3cc(C(=O)NCCN4CCOCC4)n(C)c3)n(C)c2)cc1.O=C(O)C(F)(F)F}->{Cn1cc(NC(=O)c2cc(NC(=O)c3ccccc3)cn2C)cc1C(=O)NCCC(=N)N.O=C(O)C(F)(F)F}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}.{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}->{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}.{CSc1ccc(CNC(=O)Cn2nc3c(Oc4cccc(C)c4C)nccn3c2=O)cc1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CCOc1ccc(-n2ccn3c(SCC(=O)c4cccc(OC)c4)nnc3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{CC(C)c1nnc2c(=O)n(CC(=O)Nc3ccc(F)cc3)c3ccccc3n12}->{CCc1nnc2c(=O)n(CC(=O)Nc3ccc(NC(C)=O)cc3)c3ccccc3n12}.{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}->{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}.{COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4C)nnc3c2=O)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}->{O=C(Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O)Nc1ccccc1Br}.{Cc1ccccc1NC(=O)Cn1nc2ccc(SC3CCCCC3)nn2c1=O}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CC1CCCN(c2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)C1}->{O=C(Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O)Nc1ccccc1Br}.{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{CCCc1nnc2c(=O)n(CC(=O)Nc3ccc(NC(C)=O)cc3)c3ccccc3n12}.{CCC(Sc1nnc2c(=O)n(-c3cccc(OC)c3)ccn12)C(=O)Nc1cc(F)ccc1F}->{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}->{CCCc1nnc2c(=O)n(CC(=O)Nc3ccc(NC(C)=O)cc3)c3ccccc3n12}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Cl)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}.{O=C(Cn1nc2c(SCc3ccc(Cl)cc3)nccn2c1=O)Nc1ccccc1F}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)Nc1cccc(C(F)(F)F)c1}->{COc1ccc(NC(=O)Cn2nc3c(Sc4cccc(F)c4)nccn3c2=O)cc1Cl}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}.{Cc1cc2nn(CC(=O)Nc3cc(F)ccc3C)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1}->{COc1ccc(-n2ccn3c(-c4ccc([N+](=O)[O-])cc4)nnc3c2=O)cc1Cl}.{CCc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)Nc1cccc(C(F)(F)F)c1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}->{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}.{Cc1cc(C)c(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)cc1C}->{O=C(CSc1nnc2c(=O)n(-c3ccc(Br)cc3)ccn12)Nc1cc(F)ccc1F}.{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{Cc1cccc(NC(=O)CSc2nnc3ccc(C(=O)Nc4cccc(F)c4)cn23)c1}.{C=Cc1ccc(CN(c2ccc(CC)cc2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}->{CC(C)c1ccc(N(Cc2ccccc2F)S(=O)(=O)c2cccn3cnnc23)cc1}.{CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}.{CCC(Sc1nnc2c(=O)n(-c3cccc(OC)c3)ccn12)C(=O)Nc1cc(F)ccc1F}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4cccc(OC)c4)nnc3c2=O)cc1}.{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)c1}->{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COC(=O)c1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)cc1}->{O=C(Cn1nc2nc(Nc3ccc(F)cc3)ccn2c1=O)Nc1ccc(F)cc1}.{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}->{CSc1ccc(-c2noc(Cn3nc4ccc(-c5ccccc5)nn4c3=O)n2)cc1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccc(C)cc5)n4ccn3n2)cc1}.{COc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}->{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}.{Cc1ccc(-n2ccn3c(=O)n(Cc4cccc(F)c4)nc3c2=O)cc1C}->{COc1cccc(-n2ccn3c(SCc4ccc(C)cc4)nnc3c2=O)c1}.{C#CCN1CCc2nc(N)c(C#N)c(-c3ccccc3)c2C1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c4sc(N5CCCC5)nc4ncn3c2=O)cc1}->{COc1ccc(Cl)cc1NC(=O)Cn1nc2c3cc(-c4ccc(C)c(C)c4)nn3ccn2c1=O}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1nnc2c(S(=O)(=O)N(Cc3cccc(Cl)c3)c3ccc(F)c(F)c3)cccn12}->{Cc1cc(C)cc(N(Cc2ccc(Cl)cc2)S(=O)(=O)c2cccn3c(C)nnc23)c1}.{O=S(=O)(c1ccc2nncn2c1)N(Cc1ccc(F)cc1)c1ccc(F)c(F)c1}->{CCc1ccc(N(Cc2ccccc2)S(=O)(=O)c2cccn3cnnc23)cc1}.{COc1cccc(CN(c2ccc(F)c(F)c2)S(=O)(=O)c2ccc3nncn3c2)c1}->{O=S(=O)(c1ccc2nncn2c1)N(Cc1ccc(F)cc1)c1ccc(F)c(F)c1}.{Cc1cccc(C)c1NC(=O)Cn1nc2c(Sc3ccccc3)nccn2c1=O}->{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{COc1ccc(Cl)cc1NC(=O)Cn1nc2c3cc(-c4ccc(C)c(C)c4)nn3ccn2c1=O}.{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}->{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{CCOC(=O)c1ccc(NC(=O)Cn2nc3ccc(S(=O)(=O)C(C)(C)C)nn3c2=O)cc1}.{O=C(Cn1nc2c(SC3CCCCC3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CCc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{Cc1cccc(NC(=O)Cn2nc3c4cc(-c5ccc(Cl)cc5)nn4ccn3c2=O)c1}.{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{O=C(Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O)Nc1ccccc1Br}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{COC(=O)c1cccc(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c1}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{CC(C)c1nnc2c(=O)n(CC(=O)Nc3ccc(F)cc3)c3ccccc3n12}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(-c2cc3c4nnc(SCC(=O)NCc5ccccc5Cl)n4ccn3n2)cc1}->{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{Cc1cc(C)c(NC(=O)Cn2nc3ccc(Sc4cccc(F)c4)nn3c2=O)c(C)c1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{CCCCc1ccc(NC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}.{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{Cc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{COc1ccc(NC(=O)Cn2nc3ccc(Sc4ccccc4)nn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cccc(C#N)c5)n4ccn3n2)cc1}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{Cc1ccc(NC(=O)CSc2nc3ccccc3n3cnnc23)c(Br)c1}.{CCOc1ccc(-n2ccn3c(SCC(=O)Nc4cc(OC)cc(OC)c4)nnc3c2=O)cc1}->{CCc1nnc2c(SCC(=O)Nc3ccc(OC)c(Cl)c3)nc3ccccc3n12}.{Cc1cc2nn(CC(=O)Nc3cc(F)ccc3C)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{Cc1cc2nn(CC(=O)Nc3ccc(F)cc3F)c(=O)n2c(Nc2ccc(C)c(F)c2)n1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{O=C(Cn1nc2c(Oc3ccccc3)nccn2c1=O)Nc1ccccc1F}->{CSc1cccc(NC(=O)Cn2nc3c(Sc4ccccc4)nccn3c2=O)c1}.{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}->{CCc1nnc2c(=O)n(CC(=O)Nc3ccc(NC(C)=O)cc3)c3ccccc3n12}.{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{Cc1cccc(NC(=O)Cn2nc3ccc(-c4ccc(Cl)cc4)nn3c2=O)c1C}->{O=C(Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O)Nc1ccc2c(c1)CCC2}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CCN(CCCNC(=O)CCc1nnc2ccc(-c3ccc(C)c(C)c3)nn12)c1ccccc1}->{O=C(CCc1nnc2c3cc(-c4ccc(F)cc4)nn3ccn12)NCc1ccccc1Cl}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5cc(C)ccc5C)c(=O)n4ccn3n2)cc1}->{COc1cccc(CNC(=O)CSc2nnc3c4cc(-c5cc(C)ccc5C)nn4ccn23)c1OC}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)Nc1cccc(C(F)(F)F)c1}->{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}.{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{CSc1ccc(CNC(=O)Cn2nc3c(N4CC(C)CC(C)C4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccccc6F)CC5)c(=O)n4ccn3n2)cc1C}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COc1cc(OC)c(NC(=O)Cn2nc3c(SC4CCCCC4)nccn3c2=O)cc1Cl}.{N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{COc1ccc(NC(=O)Cn2nc3ccc(SC(C)C)nn3c2=O)cc1OC}.{Cc1ccccc1Oc1nccn2c(=O)n(CC(=O)Nc3ccc(C#N)cc3)nc12}->{COc1ccc(Cl)cc1NC(=O)Cn1nc2c3cc(-c4ccc(C)c(C)c4)nn3ccn2c1=O}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {COc1ccc(-c2cc3c4nn(CC(=O)NCc5ccc(Cl)cc5)c(=O)n4ccn3n2)cc1}->{Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccc(F)cc6)CC5)c(=O)n4ccn3n2)cc1C}.{Cc1ccc(NC(=O)Cn2nc3c(Oc4ccccc4)nccn3c2=O)c(Br)c1}->{COc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)cc5)nn4ccn3c2=O)cc1}.{COc1cccc(-n2ccn3c(SCC(=O)c4ccc(OC)c(OC)c4)nnc3c2=O)c1}->{CCOc1ccc(-n2ccn3c(SCC(=O)c4ccc(C)cc4)nnc3c2=O)cc1}.{Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{Cc1ccc(NC(=O)Cn2nc3ccc(SC4CCCCC4)nn3c2=O)cc1C}.{CC(C)Sc1ccc2nn(CC(=O)Nc3ccc(F)cc3Cl)c(=O)n2n1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}->{O=C(Cn1nc2c3cc(-c4ccc(F)cc4)nn3ccn2c1=O)NCc1ccccc1Cl}.{Cc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccccc3)ccn12}->{COc1cccc(-n2ccn3c(SCC(=O)Nc4ccc(Br)cc4)nnc3c2=O)c1}.{O=C(Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O)Nc1ccc2c(c1)CCC2}->{CCc1ccc(NC(=O)Cn2nc3c4cc(-c5ccc(C)c(C)c5)nn4ccn3c2=O)cc1}.{CC(C)c1ccc(NC(=O)Cn2nc3c(N4CCCCC4)nccn3c2=O)cc1}->{CSc1cccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)c1}.{O=C(Cn1nc2ccc(Sc3cccc(F)c3)nn2c1=O)NCc1ccc(Cl)cc1}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {CC(=O)c1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}->{COc1ccc(Cl)cc1NC(=O)Cn1nc2c3cc(-c4ccc(C)c(C)c4)nn3ccn2c1=O}.{O=C(CSc1nnc2c(=O)n(Cc3ccc(F)cc3)ccn12)NC1CCCC1}->{COc1ccccc1N1CCN(C(=O)CSc2nnc3c(=O)n(-c4ccc(F)cc4)ccn23)CC1}.{O=C(CSc1nnc2c(=O)n(-c3ccccc3)ccn12)Nc1ccc(Br)cc1}->{CC(C)c1nnc2c(=O)n(CC(=O)Nc3ccc(F)cc3)c3ccccc3n12}.{CCc1cccc(C)c1NC(=O)Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{COc1ccccc1NC(=O)Cn1nc2c3c4c(sc3ncn2c1=O)CCCC4}.{COc1ccc(Cl)cc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(C)c(-c2cc3c4nnc(CCC(=O)NCCc5ccc(Cl)cc5)n4ccn3n2)c1}->{Cc1ccc(-c2cc3c4nn(CC(=O)N5CCN(c6ccc(F)cc6)CC5)c(=O)n4ccn3n2)cc1C}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{COc1cccc(NC(=O)Cn2nc3c4c5c(sc4ncn3c2=O)CCCC5)c1}.{Cc1cc(C)c(NC(=O)Cn2nc3c(SCc4ccc(Cl)cc4)nccn3c2=O)c(C)c1}->{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}.{Cc1ccc(Cl)cc1NC(=O)Cn1nc2c(N3CCOCC3)nc3ccccc3n2c1=O}->{Cc1ccccc1N1CCN(c2nccn3c(=O)n(CC(=O)NCc4ccc(Cl)cc4)nc23)CC1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}->{O=C(Cn1nc2ccc(SCc3ccc(Cl)cc3)nn2c1=O)Nc1ccc2c(c1)CCC2}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1cc2nn(CC(=O)Nc3cc(F)cc(F)c3)c(=O)n2c(Nc2ccc(F)c(C)c2)n1}->{Cc1cccc(C)c1NC(=O)Cn1nc2c(N3CCSCC3)nc3ccccc3n2c1=O}.{COc1ccccc1NC(=O)CSc1nnc2c(=O)n(-c3ccc(C)c(C)c3)ccn12}->{CCCCOc1ccc(-c2cc3c4nnc(SCC(=O)Nc5cc(C)ccc5C)n4ccn3n2)cc1}.{C=Cc1ccc(CN(c2ccc(CC)cc2)S(=O)(=O)c2cccn3c(C)nnc23)cc1}->{Cc1cc(C)cc(N(Cc2ccc(Cl)cc2)S(=O)(=O)c2cccn3c(C)nnc23)c1}.{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc(OC)c(Cl)c5)c(=O)n4ccn3n2)cc1}->{Cc1ccc(Cn2c(=O)c3ccccc3n3c(=O)n(CC(=O)Nc4ccc5c(c4)OCCO5)nc23)cc1}.{COc1ccc(NC(=O)Cn2nc3c(N4CCCC4)nccn3c2=O)cc1}->{Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccccc4C(F)(F)F)nc23)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {Cc1ccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc5c(c4)OCO5)nc23)cc1}->{COc1ccc(-c2cc3c4nn(CC(=O)Nc5ccc6c(c5)OCO6)c(=O)n4ccn3n2)cc1}.{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}->{CCCN(C)c1nccn2c(=O)n(CC(=O)Nc3cccc(Cl)c3F)nc12}.{Cc1cc(C)c(NC(=O)Cn2nc3c(N4CCCC(C)C4)nccn3c2=O)c(C)c1}->{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1ccc(F)c(Cl)c1}.{Cc1cc(C)cc(NC(=O)CSc2nnc3c(=O)n(-c4ccc(Br)cc4)ccn23)c1}->{Cc1ccc(NC(=O)CSc2nc3ccccc3n3cnnc23)c(Br)c1}.{COc1ccc(NC(=O)Cn2nc3cc(C)nc(Nc4ccc(F)c(C)c4)n3c2=O)cc1}->{CCOc1ccc(NC(=O)Cn2nc3ccc(-c4ccc(C)c(C)c4)nn3c2=O)cc1}.{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}",
+        "input": "increase",
+        "output": ""
+    },
+    {
+        "instruction": "increase a certain molecular property. Output: {N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}->{COC(=O)c1ccc(NC(=O)Cn2nc3c(Oc4ccccc4C)nccn3c2=O)cc1}.{O=C(Cn1nc2c(Sc3cccc(F)c3)nccn2c1=O)Nc1cccc(Br)c1}->{Cc1ccc(NC(=O)Cn2nc3c(Sc4ccccc4)nc4ccccc4n3c2=O)cc1C}.{N#Cc1ccccc1NC(=O)Cn1nc2c(Oc3ccccc3)nccn2c1=O}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}->{Cc1ccc(CNC(=O)c2ccc3nn(CC(=O)Nc4ccc(C(F)(F)F)cc4)c(=O)n3c2)cc1}.{COc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4ccc(Br)cc4F)nc23)c1}->{CSc1ccc(CNC(=O)Cn2nc3c(N4CCOCC4)nccn3c2=O)cc1}.{Cc1cccc(Oc2nccn3c(=O)n(CC(=O)Nc4cccc(C(F)(F)F)c4)nc23)c1C}",
+        "input": "increase",
+        "output": ""
+    }
+]

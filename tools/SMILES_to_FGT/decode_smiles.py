@@ -4,7 +4,10 @@ import sys
 from smiles_change import *
 from rdkit import Chem
 
+from rdkit import RDLogger
 
+# 关闭RDKit的所有日志输出
+RDLogger.DisableLog('rdApp.*')
 
 def read_file(filename):
     with open(filename, 'r') as file:
@@ -44,23 +47,45 @@ def code_to_smiles(code):
         start_groups = vocab_data.get(start_groups, "null")
         for i in range(len(group)):
             group[i] = vocab_data.get(group[i], "null")
+
+        # 初始化分子
         start_groups = Chem.MolFromSmiles(start_groups, sanitize=False)
+        if start_groups is None:
+            return None
+
         new_mol = start_groups
 
         for i in range(len(group)):
-            group_item = group[i]
-            group_item = Chem.MolFromSmiles(group_item, sanitize=False)
-            connected_atoms_item = connected_atoms[i]
-            connected_group_atoms_item = connected_group_atoms[i]
-            connected_atoms_item = [connected_atoms_item]
-            connected_group_atoms_item = [connected_group_atoms_item]
-            new_mol = add_group(new_mol, group_item, connected_atoms_item, connected_group_atoms_item, bond_type=1)
-            new_smiles = Chem.MolToSmiles(new_mol)
-            new_mol = Chem.MolFromSmiles(new_smiles, sanitize=False)
+            group_item = Chem.MolFromSmiles(group[i], sanitize=False)
+            if group_item is None:
+                break
+
+            connected_atoms_item = [connected_atoms[i]]
+            connected_group_atoms_item = [connected_group_atoms[i]]
+
+            prev_mol = new_mol  
+
+            try:
+                new_mol = add_group(prev_mol, group_item, connected_atoms_item, connected_group_atoms_item, bond_type=1)
+                new_smiles = Chem.MolToSmiles(new_mol)
+                tmp_mol = Chem.MolFromSmiles(new_smiles)
+                if tmp_mol is None:
+                    new_mol = prev_mol  
+                    break
+
+                new_mol = tmp_mol 
+
+            except Exception as e:
+                new_mol = prev_mol 
+                break 
+
+        if new_mol is None:
+            return None
 
         end_smiles = Chem.MolToSmiles(new_mol)
         end_smiles = replace_smiles(end_smiles)
         return end_smiles
+
     except Exception as e:
         print(f"Error in code_to_smiles: {e}")
         return None

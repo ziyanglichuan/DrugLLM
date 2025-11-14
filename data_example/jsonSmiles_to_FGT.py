@@ -7,7 +7,7 @@ from tqdm import tqdm
 import argparse
 
 # Add the path for the smiles_reconstruction tools
-sys.path.append("../tools/SMILES_to_GMR/")
+sys.path.append("../tools/SMILES_to_FGT/")
 from encode_smiles import encode_smiles
 
 # Function to process each item in the JSON file
@@ -52,7 +52,7 @@ def process_all_files(input_dir, output_dir):
         # Read and process each JSON file
         for json_file in json_files:
             input_file = os.path.join(input_dir, json_file)
-            output_file = os.path.join(output_dir, f"GMR_{json_file}")
+            output_file = os.path.join(output_dir, f"FGT_{json_file}")
             with open(input_file, 'r') as f:
                 data = json.load(f)
                 tasks.extend([(item, output_file, lock) for item in data])
@@ -63,7 +63,7 @@ def process_all_files(input_dir, output_dir):
 
     # Write the processed data back to the respective output files in a pretty JSON format
     for json_file in json_files:
-        output_file = os.path.join(output_dir, f"GMR_{json_file}")
+        output_file = os.path.join(output_dir, f"FGT_{json_file}")
         data = []
         with open(output_file, 'r') as f:
             for line in f:

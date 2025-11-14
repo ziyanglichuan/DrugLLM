@@ -1,0 +1,492 @@
+[
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}.{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}->{aNV1/0iLm4/0fik0/2eVr13/0iLm}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR5/0aSK}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{aSX0/0iLm2/0fik0/8eRX2/0iLm21/0fFR2/0fFR}.{hRD0/0iLm4/0aao1/0fik0/2eVv6/5axe}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{aNV1/0iLm4/2eSd11/1fBn0/0iLm17/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hzv0/0hzA2/0fFR0/0gjY8/0fik0/0iLm}->{aaQ0/1iLP4/2fwd7/1fEB9/0fFR4/0fFR0/0gjY16/0fik17/0iLm0/0iLm}.{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}->{aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}.{aSX0/0iLm3/0fik0/8eRX2/0iLm21/0fFR2/0fFR}->{efP1/5eVq2/0fik0/0iLm6/1aTd17/3aut}.{hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}.{frB0/0iLm5/0aSK1/0fik0/0fik0/6ibD10/0iLm14/0aSX}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm4/1aNV4/1aNV7/0fik0/2eVg15/0iLm17/0fFR18/0fFR}.{hzv0/0iLm3/0fFR3/0fFR5/0fik0/5eOV11/0fik0/0fik0/0fik0/0fFR}->{hGN0/0fFR1/0fFR1/0fFR5/0fik0/5eOV11/0fik0/2iLS}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {ftH1/0iLm5/0fik0/0fFR10/8iLF0/0iLm}->{ftH0/0iLm7/0aSX7/0aSX1/8iLF18/0fFR9/0iLm22/0fFR}.{aSX0/0iLm2/0fik0/8eRX2/0iLm}->{aSX0/0iLm3/0fik0/8eRX2/0iLm21/0fFR2/0fFR}.{hMb0/1hRD3/0fFR2/6eSd9/0iLm12/0fFR2/0fFR14/0ius}->{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}->{hRD0/0iLm4/0aSX6/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX14/0fFR8/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {fBn0/1hRD0/0iLm7/1aNV4/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{fBn0/0hzv3/6eSd10/0iLm13/1aNV14/0iLm19/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}.{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}->{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}.{aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{aaQ0/1iLP4/0aaQ3/1aNV4/0aSK9/0iLm}->{aaQ0/1iLP4/0aaQ3/1aMi5/0hON10/0iLm}.{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}.{aNV1/0iLm3/2eSd12/1fBn0/0iLm17/1aNV}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}->{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{ftH1/0iLm5/0fik0/0fFR10/8iLF0/0iLm}->{ftH0/0iLm6/0aSX3/0iLm15/0fFS0/0fFR1/0fFR16/8iLF}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD0/0iLm4/0aao1/0fik0/2eVv6/5axe}->{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{hRD1/0fik0/2eNa10/0fFR10/0iLm14/0fFR2/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {frB0/0fik0/0ftn6/0fik7/0fik0/4iSP16/0iLm19/0fFR20/0fFR0/0fFR2/0iLm}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{fBn0/1hRD0/0iLm6/0aao8/0fFR9/7iDQ}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}.{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{hRD0/0iLm4/1aNV9/0fik0/2eVa}->{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm6/0aSX1/0fik0/2eVN7/0hOO0/0iLm12/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {ftI1/0iLm5/0aSX0/0fik0/2eVN16/0hOO3/0fFR4/0iLm6/0fFR}->{hzv0/0fik0/2eVN7/0hOO0/0iLm12/0aSX1/9imn}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}.{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}.{fEB0/0aat3/2iLP8/0aSX}->{aaQ0/1iLP4/0aaQ3/1fEB0/0aat6/0hON11/0iLm}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}.{frB0/0fik0/0ftn6/0fik7/0fik0/4iSP16/0iLm19/0fFR20/0fFR0/0fFR2/0iLm}->{hzv0/0fik0/0fik0/6ibD10/0iLm13/0fFR2/0fFR14/3gjY19/0fik0/0iLm}.{aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{fBn0/1hRD4/6eSd11/0fik0/0iLm16/0aSX0/0geA}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eNa10/0fFR10/0iLm14/0fFR2/0fFR}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}->{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/0hTT15/0iLm17/0fFR20/0fFR}.{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm5/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX23/0fFR23/0fFR8/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {edd1/0iLm6/6eSd2/0iLm22/1aNV3/0aSK}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{fBn0/1hRD0/0iLm7/0aaQ11/6ibD18/0iLm22/1ftI0/0fik0/0fik0/0fFR}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm18/0fFR0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hzv0/2awb5/0iLm7/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}->{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{aSX0/0iLm2/0fik0/8eRX2/0iLm}->{aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}.{aaQ0/1iLP4/0aaQ3/1aNV4/0aSK9/0iLm}->{aaQ0/1iLP4/0aaQ3/0hON3/0aSK3/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{aaQ0/0fik0/5eOT6/0fik0/0iLm}->{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}.{hRD0/0iLm4/1aNV9/0fik0/2eVg17/0iLm20/0fFR21/0fFR5/0aSK}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm4/1aNV4/1aNV7/0fik0/2eVg15/0iLm17/0fFR18/0fFR}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{fBn0/2frB0/0iLm7/1aNV3/1aNV12/6ibD19/0iLm21/0fFR22/0fFR}->{hRD0/0iLm4/1aNV4/1aNV7/0fik0/2eVg15/0iLm17/0fFR18/0fFR}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fik0/0fFR}.{fBn0/1hRD0/0iLm6/0fFR3/0fFR9/6eSd16/0iLm}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0ilU}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{fBn0/1hRD0/0iLm7/0aaQ11/6ibD18/0iLm22/1ftI0/0fik0/0fik0/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{edd1/0iLm6/6eSd2/0iLm22/1aNV3/0aSK}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm4/1aNV9/0fik0/2eVa}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}->{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}.{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hzv0/2awb5/0iLm7/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}->{aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/0hTT15/0iLm17/0fFR20/0fFR}.{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR5/0aSK}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}.{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{fBn1/6ibD8/0iLm12/1ftI14/2frB0/0iLm22/0fFR0/0fik0/0fik0/0fFR}->{fBn0/1hRD0/0iLm6/0fFR3/0fFR9/6eSd16/0iLm}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hzv0/0fik0/5eOV6/0fik0/0iLm9/1aNV22/0iLm27/1ftI0/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{fBn0/1hRD0/0iLm6/0fFR3/0fFR9/6eSd16/0iLm}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{aTd1/0iLm6/0hRD1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{hRD0/0iLm6/0aSX1/0fik0/2eNa9/0fFS0/0fFR1/0fFR}->{hRD0/0iLm6/0aSX1/0fik0/2eVN7/0hOO0/0iLm12/0aSX}.{aaQ0/2ewC3/0iLm}->{aaQ0/1iLP4/0aaQ3/1aMi5/0hON10/0iLm}.{aaQ0/2ewC3/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {ftH1/0iLm4/0aSX5/0aSX0/0iLm7/0aSK1/8iLF8/0fFR}->{ftH0/0iLm8/0aSK1/8iLF17/0fFR9/0iLm20/0fFR3/0fFR}.{ftH1/0iLm4/0aSX5/0aSX0/0iLm8/0aSX1/1iLF}->{ftH1/0iLm5/0fik0/0fFR10/8iLF0/0iLm}.{ftH0/0iLm7/1aNV8/0iLm11/0aSX12/0aSX17/1iLF}->{ftH1/0iLm4/0aSX5/0aSX0/0iLm8/0aSX1/1iLF}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}.{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}->{hRD1/0fik0/2eNa10/0fFS0/0fFR1/0fFR12/0iLm15/0fFR5/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm5/1aNV8/0fik0/2eVa}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD0/0iLm6/0hRD1/0fFR9/0fik0/2eNa18/0fik0/0fFR}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}->{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0ilU}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}->{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0ilU}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}.{frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{fBn0/1hRD0/0iLm8/0fik0/0fFR10/6eSd17/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}.{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/4gxZ17/0fFR17/0fFR}.{fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm19/1aNV}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm4/0aSX6/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX14/0fFR8/0fFR}.{fBn0/0hzv3/6eSd10/0iLm13/1aNV14/0iLm19/0aSX}->{aNV1/0iLm4/2eSd11/1fBn0/0iLm17/0fFR}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}->{hzv0/2awb5/0iLm9/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}.{hRD0/0iLm4/1aNV9/0fik0/2eVa}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/0hTT15/0iLm17/0fFR20/0fFR}.{hRD0/0iLm4/1aNV9/0fik0/2eVa}->{hRD0/0iLm5/1aNV8/0fik0/2eVa}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}->{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}.{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD0/0iLm4/1aNV9/0fik0/2eVa}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm19/1aNV}->{hMb0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm18/0aSX19/0aSX13/0fik0/0fFR}.{fBn0/1hRD0/0iLm8/0fik0/0fFR10/6eSd17/0iLm}->{hRD0/0iLm6/0hRD1/0fFR9/0fik0/2eNa18/0fik0/0fik0/0fFR}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR5/0aSK}->{aSX0/0iLm3/0fik0/8eRX2/0iLm21/0fFR2/0fFR}.{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm16/0fFR18/0fFR0/0fFR}->{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {frB0/0fik0/0ftn6/0fik7/0fik0/4iSP16/0iLm19/0fFR20/0fFR0/0fFR2/0iLm}->{frB0/0fik0/0iLm8/0aSK1/0fik0/0fik0/6ibD10/0iLm12/0fFR4/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD0/0iLm4/1aNV4/1aNV7/0fik0/2eVg15/0iLm17/0fFR18/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm16/0fFR18/0fFR0/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}->{hzv0/2awb5/0iLm9/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}.{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm19/1aNV}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm18/0fFR0/0fFR}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{fBn1/6ibD8/0iLm12/1ftI14/2frB0/0iLm22/0fFR0/0fik0/0fik0/0fFR}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD0/0iLm6/0hRD1/0fFR9/0fik0/2eNa18/0fik0/0fik0/0fFR}->{fBn0/1hRD0/0iLm6/0aao8/0fFR9/7iDQ19/0fik0/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}.{fBn0/1hRD0/0iLm8/0fik0/0fFR10/6eSd17/0iLm}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm4/1aNV9/0fik0/2eVg17/0iLm20/0fFR21/0fFR5/0aSK}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{aSX0/0iLm2/0fik0/8eRX2/0iLm}->{aSK0/0iLm2/0fFR2/2eRX14/0fik0/0iLm18/0fFR}.{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}->{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fik0/0fFR}->{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}.{ftH1/0iLm4/0aSX5/0aSX0/0iLm7/0aSX1/1iLF}->{ftH1/0iLm4/0aSX0/0iLm7/0aSX1/8iLF8/0fFR}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}.{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hUf7/0iLm9/0fFR3/0fFR}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {fBn0/1hRD0/0iLm8/0fik0/0fFR10/6eSd17/0iLm}->{edd1/0iLm6/0fik0/8eRX2/0iLm}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}.{fBn0/1hRD0/0iLm7/1aNV4/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm18/0fFR0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{aTd1/0iLm6/0hRD1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}->{hRD0/0iLm4/0aao1/0fik0/2eVv6/5axe}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{hRD0/0iLm6/0hRD1/0fFR9/0fik0/2eNa18/0fik0/0fik0/0fFR}.{hMb0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm18/0aSX19/0aSX13/0fik0/0fFR}->{edd1/0iLm6/6eSd2/0iLm22/1aNV}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}->{hRD0/0iLm6/0hRD1/0fFR9/0fik0/2eNa18/0fik0/0fik0/0fFR}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}->{fBn1/6ibD8/0iLm12/1ftI14/2frB0/0iLm22/0fFR0/0fik0/0fik0/0fFR}.{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {aSK0/0iLm2/0fFR2/2eRX14/0fik0/0iLm18/0fFR}->{efP1/5eVq2/0fik0/0iLm6/1aTd17/3aut}.{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{frB2/0fik3/5eOV8/0fik9/0fFS0/0fFR10/0fFR0/0fik0/0fFS0/0fFR1/0fFR}->{hGN0/0fFR1/0fFR4/0fik0/5eOV10/0fik0/0fik0/0fFS0/0fFR1/0fFR}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hUf7/0iLm9/0fFR3/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{ftH1/0iLm4/0aSX5/0aSX0/0iLm7/0aSX1/1iLF9/0fFR}->{ftH0/0iLm7/0aSX1/8iLF17/0fFR9/0iLm20/0fFR}.{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{frB0/0fik0/0ftn6/0fik7/0fik0/4iSP16/0iLm19/0fFR20/0fFR0/0fFR2/0iLm}.{fBn0/0hzv3/6eSd10/0iLm13/1aNV14/0iLm19/0aSX}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}.{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR5/0aSK}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm16/0fFR18/0fFR0/0fFR}.{fBn0/1hRD0/0iLm8/0fik0/0fFR10/6eSd17/0iLm}->{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD0/0iLm6/0aSX1/0fik0/2eVN7/0hOO0/0iLm12/0aSX}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}.{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}->{edd1/0iLm6/6eSd2/0iLm22/1aNV}.{ftI0/0gjY5/0fik0/0iLmaSK}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{fBn0/1hRD0/0iLm7/1aNV4/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}.{hGN0/0fFR1/0fFR4/0fik0/5eOV10/0fik0/2iLR}->{hzv0/0fik0/5eOV6/0fik0/0iLm9/1aNV22/0iLm27/1ftI0/0fFR}.{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}->{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}->{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm16/0fFR18/0fFR0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}->{hRD0/0iLm4/0aao1/0fik0/2eVv6/5axe}.{hRD1/0fik0/2eVr9/0hUf0/0iLm16/0fFR17/0gge}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm4/1aNV9/0fik0/2eVa}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/0hTT15/0iLm17/0fFR20/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}->{hRD1/1iLF9/1fBn0/1hRD13/0iLm17/0aSX0/0iLm26/0fFR}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{aNV1/0iLm5/7eVg11/0fik0/2frB0/0iLm20/0aSK}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm16/0fFR18/0fFR0/0fFR}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hMb0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm18/0aSX19/0aSX13/0fik0/0fFR}->{fBn0/0hzv1/0iLm6/1aNV10/6eSd17/0iLm21/1ftI0/0fFR}.{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{edd1/0iLm6/0fik0/8eRX2/0iLm}.{frB0/0iLm7/1aQx8/0fik0/2eVy14/0hTT15/0iLm17/0fFR20/0fFR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}.{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {ftH2/1iLF11/0fik12/0fFR1/0iLm0/0iLm}->{ftH0/0iLm8/0hgt8/8iLF16/0fFR7/0iLm11/0fik0/0fFR}.{fBn0/1hRD0/0iLm7/1aNV4/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{fBn0/0hzv1/0iLm6/1aNV10/6eSd17/0iLm21/1ftI0/0fFR}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm18/0fFR0/0fFR}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}.{frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}.{aaQ0/1iLP4/2fwd7/1fEB9/0fFR4/0fFR0/0gjY16/0fik17/0iLm0/0iLm}->{aaQ0/1iLP4/2fwd5/0fFR9/0hOO0/0fFR11/0gjY15/0fik16/0iLm0/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}->{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{frB0/0iLm5/0aSK1/0fik0/0fik0/6ibD10/0iLm14/0aSX}.{ftH0/0iLm7/0aSX7/0aSX1/8iLF18/0fFR9/0iLm22/0fik0/0fFR}->{ftH0/0iLm6/0aSX3/0iLm15/0fFS0/0fFR1/0fFR16/8iLF}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{aTd1/0iLm6/0hRD1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}.{hRD0/0iLm5/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX23/0fFR23/0fFR8/0fFR}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hUf7/0iLm9/0fFR3/0fFR}.{ftH1/0iLm4/0aSX5/0aSX0/0iLm8/0aSX1/1iLF}->{ftH0/0iLm6/0aSX3/0iLm15/0fFS0/0fFR1/0fFR16/8iLF}.{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}->{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm4/1aNV9/0fik0/2eVa}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hzv0/2awb5/0iLm7/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}->{hRD0/0iLm4/1aNV9/0fik0/2eVg17/0iLm20/0fFR21/0fFR5/0aSK}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm4/1aNV9/0fik0/2eVa}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}.{hRD1/0fik0/2eNa10/0fFR10/0iLm14/0fFR2/0fFR}->{hRD1/0fik0/2eNa10/0fFS0/0fFR1/0fFR12/0iLm15/0fFR5/0fFR}.{fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}->{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}.{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}->{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}.{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD0/0iLm4/1aNV9/0fik0/2eVa}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iuR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{hMb0/1hRD3/0fFR2/6eSd9/0iLm12/0fFR2/0fFR14/0ius}->{aSX0/0iLm3/0fik0/8eRX2/0iLm21/0fFR2/0fFR}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}->{aNV1/0iLm4/2eSd11/1fBn0/0iLm17/0fFR}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{edd1/0iLm6/6eSd2/0iLm22/1aNV3/0aSK}.{fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR3/0fFR}->{fBn1/6ibD8/0iLm12/1ftI14/2frB0/0iLm22/0fFR0/0fik0/0fik0/0fFR}.{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}->{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{hzv0/0fik0/5eOV6/0fik0/0iLm9/1aNV22/0iLm27/1ftI0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{hzv0/0fik0/2eVy6/0hUf7/0iLm10/0aSX1/2awb24/0iLm}->{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}.{edd1/0iLm6/0fik0/8eRX2/0iLm}->{aSX0/0iLm2/0fik0/8eRX2/0iLm21/0fFR2/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm19/1aNV}.{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}->{hRD1/0fik0/2eVr9/0hUf10/0iLm13/0aSX0/0iLm23/0fFR5/0fFR3/0fFR}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}->{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}.{aaQ0/1iLP4/0aaQ3/1ftn0/0aat7/0hON0/0fFR13/0iLm0/0iLm}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}->{hRD0/0iLm4/0aSX1/0fik0/2eVy6/0hTT7/0iLm}.{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hUf7/0iLm9/0fFR3/0fFR}->{hRD1/0fik0/2eVr9/0hUf10/0iLm13/0aSX0/0iLm23/0fFR5/0fFR3/0fFR}.{fBn0/1hRD0/0iLm7/0aaQ11/6ibD18/0iLm22/1ftI0/0fik0/0fik0/0fFR}->{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}.{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hUf7/0iLm9/0fFR3/0fFR}.{ftH1/0iLm4/0aSX5/0aSX0/0iLm7/0aSK1/8iLF8/0fFR}->{ftH0/0iLm7/0aSX7/0aSX1/8iLF18/0fFR9/0iLm22/0fFR}.{hRD1/1iLF9/1fBn0/1hRD13/0iLm17/0aSX0/0iLm25/0fFR2/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}.{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}->{fBn0/1hRD0/0iLm8/0hzv1/0fFR11/7iDQ21/0fik0/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hzv0/2awb5/0iLm9/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/1fos0/0fik0/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}->{hRD0/0iLm6/0aSX1/0fik0/2eVN7/0hOO0/0iLm12/0aSX}.{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}->{aQx1/0iLm5/0jaR8/0fik0/2eVr16/0iLm}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{fBn1/6ibD8/0iLm12/1ftI14/2frB0/0iLm22/0fFR0/0fik0/0fik0/0fFR}.{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR5/0aSK}->{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}.{aSX0/0iLm3/0fik0/8eRX2/0iLm21/0fFR2/0fFR}->{aNV1/0iLm4/2eSd11/1fBn0/0iLm17/0fFR}.{aaQ0/0iOe9/0fik0/0aat8/0hON13/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {frB0/0fik0/0iLm8/0aSK1/0fik0/0fik0/6ibD10/0iLm12/0fFR4/0fFR}->{hzv0/2awb5/0iLm9/0aSX1/0fik0/2eVg8/0iLm11/0fFR2/0fFR}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD0/0iLm5/1aNV8/0fik0/2eVa}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}.{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0ilU}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}.{hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}->{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {edd1/0iLm6/6eSd2/0iLm22/1aNV}->{edd1/0iLm6/6eSd2/0iLm22/1aNV3/0aSK}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fik0/0fFR}->{aTd1/0iLm6/0hRD1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}->{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {frB0/0iLm7/1aQx8/0fik0/2eVy14/4gxZ17/0fFR17/0fFR}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/0hUf15/0iLm}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}->{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD0/0iLm4/0aSX6/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX14/0fFR8/0fFR}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/4gxZ17/0fFR17/0fFR}.{hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}->{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/5axe}.{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{edd1/0iLm6/6eSd2/0iLm22/1aNV}.{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}->{hRD0/0iLm6/0aSX1/0fik0/2eVN7/0hOO0/0iLm12/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}.{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}->{fBn0/0hzv1/0iLm6/1aNV10/6eSd17/0iLm21/1ftI0/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{hzv0/0fik0/0fik0/6ibD10/0iLm13/0fFR2/0fFR14/3gjY19/0fik0/0iLm}.{fBn0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm20/0aao}->{hRD1/1iLF9/1fBn0/1hRD13/0iLm17/0aSX0/0iLm26/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {fBn0/0hzv1/2awb7/0iLm9/1aNV15/6eSd22/0iLm26/0aSX}->{fBn1/6eSd8/0iLm12/0aao0/0iLm11/0aSX}.{hRD0/0iLm6/0aSX1/0fik0/2eVN7/0hOO0/0iLm12/0aSX}->{hRD0/0iLm5/1aQx8/0fik0/2eVy14/3aut}.{fBn0/1hRD0/0iLm7/0aaQ11/6ibD18/0iLm22/1ftI0/0fik0/0fik0/0fFR}->{hRD0/0iLm4/1aNV4/1aNV7/0fik0/2eVg15/0iLm17/0fFR18/0fFR}.{aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{fBn0/1hRD0/0iLm6/0fFR3/0fFR9/6eSd16/0iLm}.{fBn0/0hzv3/6eSd10/0iLm13/1aNV14/0iLm19/0aSX}->{aSX0/0iLm3/2eRX4/0fik0/0iLm9/0fFR}.{hRD1/0fik0/2eNa10/0fFR10/0iLm14/0fFR2/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/0hTT8/0iLm12/0fFR16/0iuR}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}.{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}->{fBn0/1hRD0/0iLm6/0aao8/0fFR9/7iDQ}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}->{hRD0/0iLm4/1aNV9/0fik0/2eVg17/0iLm20/0fFR21/0fFR5/0aSK}.{fBn0/1hRD4/6eSd11/0fik0/0iLm16/0aSX0/0geA}->{fBn0/0hzv1/2awb7/0iLm9/1aNV15/6eSd22/0iLm26/0aSX}.{fBn0/1hRD0/0iLm8/0aao3/6eSd10/0iLm}->{hRD0/0iLm6/0aSX1/0fik0/2eNa9/0fFS0/0fFR1/0fFR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fik0/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD0/0iLm4/1aNV9/0fik0/2eVa}.{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR5/0aSK}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {fBn0/1hRD0/0iLm8/0fik0/0fFR10/6eSd17/0iLm}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{fFu0/1hRD0/3iTl9/0iLm13/1ftI7/0fFR0/0fFR14/0iLm}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}->{fBn0/0hzv3/6eSd10/0iLm14/1ftI13/0iLm16/0fFR18/0fFR0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}.{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD0/0iLm4/0aSX6/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX14/0fFR8/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVk17/3aut}->{hRD0/0iLm4/1aNV9/0fik0/2eVg17/0iLm20/0fFR21/0fFR5/0aSK}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}->{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}.{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}->{hRD0/0iLm6/1ftI7/0fik8/2eVr15/0iLm18/0fFR19/0fFR0/0fFR}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{aNV1/0iLm3/2eSd12/1fBn0/0iLm17/1aNV}->{edd1/0iLm6/6eSd2/0iLm22/1aNV}.{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD1/0fik0/2eNa10/0fFR10/0iLm14/0fFR2/0fFR}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}.{hRD0/0iLm4/0aSX6/0aSK1/0fik0/2eVy6/0hUf7/0gge}->{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}.{hRD0/0iLm5/1aNV8/0fik0/2eVa}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}->{fBn0/1hRD0/0iLm6/0aao8/0fFR9/7iDQ}.{hRD0/0iLm5/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX23/0fFR23/0fFR8/0fFR}->{hRD1/0fik0/2eVv7/0hUf0/0iLm21/0fFR2/0fFR13/0iLm}.{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}->{hzv0/0fik0/2eVr8/1hNK0/0fFR1/0fFR1/0fFR14/6isv23/0fFR}.{hRD0/0iLm5/0fFS0/0fFR1/0fFR9/0fik0/2eVy15/2awb19/0iLm21/0fFR}->{hRD1/0fik0/2eNa10/0fFS0/0fFR1/0fFR12/0iLm15/0fFR5/0fFR}.{ftH2/1iLF11/0fik12/0fFR1/0iLm0/0iLm}->{ftH0/0iLm7/0aSX7/0aSX1/8iLF18/0fFR9/0iLm22/0fFR}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fik0/0fFR}->{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}->{hRD0/0iLm4/0aao1/0fik0/2eVv6/5axe}.{hRD1/0fik0/2eVy7/4ghv10/0fFR16/0iLm19/0fFR5/0fFR3/0fFR}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD0/0iLm5/2aOP10/0fik0/2eVy16/1fBn0/0iLm22/0aSK}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD0/0iLm6/0aSX1/0fik0/2eNa9/0fFS0/0fFR1/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {frB0/0fik0/0ftn6/0fik7/0fik0/4iSP16/0iLm19/0fFR20/0fFR0/0fFR2/0iLm}->{frB0/0iLm5/0aSK1/0fik0/0fik0/6ibD10/0iLm14/0aSX}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{fBn0/2frB0/0iLm7/1aNV3/1aNV12/6ibD19/0iLm21/0fFR22/0fFR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{aTd1/0iLm6/0hRD1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}->{hRD0/0iLm4/1aNV4/1aNV3/0aSK9/0fik0/2eVy15/0hUf16/0gge}.{frB0/0iLm7/1aQx8/0fik0/2eVy14/4gxZ17/0fFR17/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm4/0aaQ9/0fik0/2eVy15/0hTT16/0iLm}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD0/0iLm5/1aNV3/1aNV7/0fik0/2eVr15/1hMb0/0fFR1/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVg17/0iLm21/0aSK}.{hRD0/0iLm6/0aSX1/0fik0/2eNa9/0fFS0/0fFR1/0fFR}->{hRD0/0iLm6/0hRD1/0fFR9/0fik0/2eNa18/0fik0/0fFR}.{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm4/0aao1/0fik0/2eVy6/0hUf7/0iLm9/0fFR3/0fFR}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}->{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD0/0iLm4/0aSX6/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX14/0fFR8/0fFR}.{frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{frB0/0iLm7/1aQx8/0fik0/2eVy14/4gxZ17/0fFR17/0fFR}.{hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}->{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}.{hRD0/0iLm6/2aOP9/0fik0/2eVy15/5axe}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "decrease a certain molecular property. Output: {hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{hRD1/0fik0/2eVr9/1hMb10/0iLm13/0aSK15/0aSX0/0fFR1/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0ilU}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}->{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}.{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}",
+    "input": "decrease",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {aNV1/0iLm5/0ibD12/1fBn0/2frB0/0iLm20/0aSK}->{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}.{hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD1/0fik0/2eVr9/0hUf10/0iLm13/0aSX0/0iLm23/0fFR5/0fFR3/0fFR}.{hRD1/0fik0/2eVy7/1fBn0/0iLm13/0aSK0/0iLm24/0fFR5/0fFR3/0fFR}->{hRD1/0fik0/2eVy7/4gxZ10/0fFR3/0fFR17/0iLm22/0fik0/0fik0/0fik0/0fFR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{hRD0/0iLm6/2aOP9/0fik0/2eVy15/0hTT16/0iLm18/0fFR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVr15/0hUf16/0iLm}.{hRD0/0iLm6/0fFS0/0fFR1/0fFR8/0fik0/2eVy14/3auv}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {frB0/0iLm7/0aSK1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{frB0/0iLm5/0aSK1/0fik0/2eVg8/0iLm12/0aSX}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{hRD0/0iLm4/1aNV9/0fik0/2eVg17/0iLm20/0fFR21/0fFR5/0aSK}.{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}->{aTd1/0iLm7/0hRD1/0fik0/2eVq8/2frB0/0iLm16/0fFR}.{hRD1/0fik0/2eVr9/1fBn0/0iLm15/0aSK0/0iLm24/0fFR5/0fFR}->{hRD0/0iLm6/2fwd9/0fik10/2eVr17/1hNK0/0fFR21/0fFR21/0fFR0/0fFR}.{hRD0/0iLm5/0aSK6/0aSX1/0fik0/2eVy6/0hUf7/0gge}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}->{hRD1/0fik0/2eVg9/0iLm13/0aSK0/0iLm26/0fFR}.{hRD1/0fik0/2eVy7/1fBn12/0iLm15/0aSX0/0iLm12/0aSK}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{aTd1/0iLm6/0hRD1/0fik0/2eVr8/0hUf9/0iLm12/0aSX}->{hRD0/0iLm6/1aNV3/0aSK7/0fik0/2eVy13/0hUf14/0iLm17/0aSX}.{hRD1/0fik0/2eVy7/0hUf0/0iLm16/0fFR5/0fFR16/0iLm}->{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm18/0fik0/0fFR}.{hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD1/0fik0/2eVr9/0iLm13/0aSK0/0iLm22/0fFR2/0fFR}.{hRD0/0iLm5/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX23/0fFR23/0fFR8/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm6/1aNV7/0fik0/2eVu16/0hOO17/0iLm20/0fFR21/0aSX14/0fFR}->{hRD0/0iLm5/0aSK4/0fFR9/0fik0/2eVv15/5axe}.{fBn0/0hzv3/6eSd10/0iLm14/0aSX1/0iLm22/0fFR4/0fFR2/0fFR}->{fBn0/1hRD0/0iLm6/0aSX7/0aSX3/6eSd10/0iLm14/0aao}.{hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iuR}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{hRD1/1iLF9/1fBn0/1hRD13/0iLm17/0aSX0/0iLm26/0fFR}.{ftH0/0iLm8/0hgt8/8iLF16/0fFR7/0iLm11/0fik0/0fFR}->{ftH0/0iLm6/0aSX3/0iLm15/0fFS0/0fFR1/0fFR16/8iLF}.{hzv0/0iLm5/0hRD1/0fik0/2eVr15/0iLm18/0fFR2/0fFR19/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD0/0iLm5/0aSX5/0aSX1/0fik0/2eVu9/0hOO0/0iLm14/0aSX13/0fFR7/0fFR}->{hRD0/0iLm4/0fFR5/0fFR9/0fik0/2eVv15/5axo}.{fBn0/1hRD0/0iLm6/1aNV12/6eSd19/0iLm22/0fFR23/0fFR}->{fBn0/1hRD4/6ibD11/0iLm15/1ftI16/0iLm19/0fFR20/0fFR0/0fik0/0fik0/0fFR}.{ftH0/0iLm8/0hgt8/8iLF16/0fFR7/0iLm11/0fik0/0fFR}->{ftH0/0iLm8/0aSK1/8iLF17/0fFR9/0iLm20/0fFR3/0fFR}.{hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm19/1aNV3/0aSK}->{hRD1/0fik0/5eOT7/0fik0/0iLm12/0fFR21/0ius}.{hRD0/0iLm6/1aNV7/0fik0/2eVy13/3aut}->{aTd1/0iLm5/0hRD1/0fik0/2eVy6/0hTT7/0iLm11/0fFR}.{hRD0/0iLm5/0aao1/0fik0/2eVy6/0hUf7/0iLm10/0aSX}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVy7/0hTT8/0iLm11/1aNV18/0iLm21/0aSX23/0aao}->{hRD0/0iLm4/0aao1/0fik0/2eVy6/0hTT18/0fFR13/0iLm}.{hMb0/1hRD4/6eSd11/0iLm14/1aNV15/0iLm18/0aSX19/0aSX13/0fik0/0fFR}->{fBn0/0hzv1/0iLm6/1aNV3/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}.{aSX0/0iLm2/0fik0/8eRX2/0iLm}->{fBn0/1hRD0/0iLm8/0aSK3/6eSd10/0iLm}.{hRD0/0iLm6/0aaQ7/0fik0/2eVy13/0hTT14/0iLm16/0fFR}->{frB0/0iLm7/0aSK1/0fik0/2eVy6/2awb10/0iLm12/0fFR}.{aTd1/0iLm6/0hRD1/0fik0/2eVy6/0hTT7/0iLm9/0fFR2/0fFR}->{hRD1/0fik0/2eVr9/0hUf0/0iLm17/0fFR2/0fFR15/0gge}.{hRD1/0fik0/2eVg9/0iLm12/0fFR2/0fFR13/0iLm17/0fFR3/0fFR}",
+    "input": "increase",
+    "output": ""
+},
+{
+    "instruction": "increase a certain molecular property. Output: {hRD1/0fik0/2eVg9/0iLm13/1aNV14/0iLm17/0fFR18/0fFR}->{hRD0/0iLm6/1aNV7/0fik0/2eVg15/0iLm19/0fFR}.{fBn0/1hRD4/6eSd11/0iLm15/0aao0/0iLm24/0fFR3/0fFR}->{fBn0/1hRD0/0iLm7/0aaQ11/6ibD18/0iLm22/1ftI0/0fik0/0fik0/0fFR}.{fBn0/1hRD0/0iLm7/0aSK6/0fFR12/6eSd19/0iLm}->{fBn0/1hRD0/0iLm6/0aao8/0fFR9/7iDQ}.{fBn0/1hRD0/0iLm7/1aNV4/1aNV9/6eSd16/0iLm20/1ftI0/0fFR}->{fBn0/1hRD0/0iLm8/1aNV3/0aSK10/7iDQ20/0fik0/0fFR}.{hRD0/0iLm5/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX23/0fFR23/0fFR8/0fFR}->{hRD1/0fik0/2eVy7/1fos13/0iLm16/0aSX19/0aSK0/0fik0/0fFR}.{hRD0/0iLm4/0aSX6/0aSX1/0fik0/2eVu9/0hOO0/0iLm13/0aSX14/0fFR8/0fFR}",
+    "input": "increase",
+    "output": ""
+}
+]

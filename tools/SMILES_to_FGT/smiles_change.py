@@ -8,6 +8,7 @@ import math
 from collections import deque
 from random import shuffle
 import re
+from rdkit.Chem import SanitizeFlags 
 
 def process_molecule(mol):
     smiles = Chem.MolToSmiles(mol)
@@ -339,6 +340,9 @@ def replace_smiles(smiles):
             bond.SetStereo(Chem.BondStereo.STEREONONE)
     end_smiles = Chem.MolToSmiles(mol, isomericSmiles=False)
 
+    end_smiles = end_smiles.replace("[SiH2]", "[Si]")
+    end_smiles = end_smiles.replace("[SH3+]", "[S+]")
+    end_smiles = end_smiles.replace("[SeH2]", "[Se]")
     end_smiles = end_smiles.replace("[CH3]", "C").replace("[CH2]", "C").replace("[CH]", "C").replace("[C]", "C")
     end_smiles = end_smiles.replace("[NH4]", "N").replace("[NH3]", "N").replace("[NH2]", "N").replace("[NH]", "N").replace("[N]", "N")
     end_smiles = end_smiles.replace("[SH5]", "S").replace("[SH4]", "S").replace("[SH3]", "S").replace("[SH2]", "S").replace("[SH]", "S").replace("[S]", "S")
@@ -346,6 +350,8 @@ def replace_smiles(smiles):
     mol = Chem.MolFromSmiles(smiles, sanitize=False)
     smiles = Chem.MolToSmiles(mol)
     return smiles
+
+
 
 def is_valid_smiles(smiles):
     try:
