@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INPUT_DIR="../data_example/biological_data/FGT_data"
-GPU_ID=0  
+GPU_ID=1  
 
 
 mapfile -t TASKS < <(find "$INPUT_DIR" -maxdepth 1 -name "FGT_*.json" | sort)
