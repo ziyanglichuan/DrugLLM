@@ -68,7 +68,7 @@ def code_to_smiles(code):
             try:
                 new_mol = add_group(prev_mol, group_item, connected_atoms_item, connected_group_atoms_item, bond_type=1)
                 new_smiles = Chem.MolToSmiles(new_mol)
-                tmp_mol = Chem.MolFromSmiles(new_smiles)
+                tmp_mol = Chem.MolFromSmiles(new_smiles, sanitize=False)
                 if tmp_mol is None:
                     new_mol = prev_mol  
                     break

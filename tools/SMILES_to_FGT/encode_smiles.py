@@ -72,7 +72,6 @@ def encode_smiles(smiles):
                 if connected_atoms and connected_group_atoms:
                     result_str += f'{connected_atoms[0]}/{connected_group_atoms[0]}'
                 else:
-                    # 如果为空，选择跳过或用默认值
                     result_str += ''
                 result_str += code
             else:
