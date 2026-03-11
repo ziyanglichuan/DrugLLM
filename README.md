@@ -40,7 +40,7 @@ To install the required dependencies, execute the following command:
 pip install -r requirements.txt
 ```
 
-> **Note**: This project is best supported on Python 3.9.
+> **Note**: This project is best supported on Python 3.11.
 
 
 ## Simple Inference (Quick Start)
